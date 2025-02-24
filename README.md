@@ -1,3 +1,3 @@
 hello world!!
-Sample demo document udes for reference
-iv bca b section
+Sample demo document used for reference
+IV BCA B section
